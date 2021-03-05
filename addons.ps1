@@ -1,5 +1,7 @@
 ﻿$addons_git = @(
 "https://github.com/DeadlyBossMods/DeadlyBossMods"
+"https://github.com/WeakAuras/WeakAuras2"
+"https://github.com/klocklimek/addon_downloader"
 )
 
 if(-Not (Test-Path _retail_ )){
